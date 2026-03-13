@@ -1,6 +1,26 @@
 [
-  { "title": "🌴 CONTENT UPDATE #2", "preview": "Серверы восстановлены, баги пофикшены.", "date": "13.03.2026", "imageUrl": "https://i.imgur.com/XXXXX.jpg" },
-  { "title": "🚨 CONTENT UPDATE #1", "preview": "Нахуй иди уже здесь.", "date": "10.03.2026", "imageUrl": "https://i.imgur.com/XXXXX.jpg" },
-  { "title": "🎮 СЕЗОН 1 ВЫШЕЛ",     "preview": "Доступно для всех пидоров.", "date": "05.03.2026", "imageUrl": "https://i.imgur.com/XXXXX.jpg" },
-  { "title": "Adventure awaits.",    "preview": "соси хуй пидор", "date": "01.03.2026", "imageUrl": "https://i.imgur.com/XXXXX.jpg" }
+  {
+    "title": "🌴 CONTENT UPDATE #2",
+    "preview": "Серверы восстановлены, баги пофикшены.",
+    "date": "13.03.2026",
+    "imageUrl": ""
+  },
+  {
+    "title": "🚨 CONTENT UPDATE #1",
+    "preview": "Первый контентный апдейт уже здесь!",
+    "date": "10.03.2026",
+    "imageUrl": ""
+  },
+  {
+    "title": "🎮 СЕЗОН 1 ВЫШЕЛ",
+    "preview": "Сезон доступен для всех игроков.",
+    "date": "05.03.2026",
+    "imageUrl": ""
+  },
+  {
+    "title": "Adventure awaits.",
+    "preview": "Исследуй мир и открывай тайны.",
+    "date": "01.03.2026",
+    "imageUrl": ""
+  }
 ]

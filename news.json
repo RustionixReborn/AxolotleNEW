@@ -1,6 +1,26 @@
+[
   {
-    "title": "Demo140323",
-    "preview": "!",
-    "date": "14.03.23",
+    "title": "🌴 CONTENT UPDATE #2",
+    "preview": "Серверы восстановлены.",
+    "date": "13.03.2026",
+    "imageUrl": ""
+  },
+  {
+    "title": "🚨 CONTENT UPDATE #1",
+    "preview": "Первый апдейт!",
+    "date": "10.03.2026",
+    "imageUrl": ""
+  },
+  {
+    "title": "🎮 СЕЗОН 1 ВЫШЕЛ",
+    "preview": "Доступно для всех.",
+    "date": "05.03.2026",
+    "imageUrl": ""
+  },
+  {
+    "title": "Adventure awaits.",
+    "preview": "Исследуй мир.",
+    "date": "01.03.2026",
     "imageUrl": ""
   }
+]

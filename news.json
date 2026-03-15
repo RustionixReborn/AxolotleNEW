@@ -1,26 +1,6 @@
-[
-  {
-    "title": "🌴 CONTENT UPDATE #2",
-    "preview": "Серверы восстановлены.",
+{
+    "title": "v1241150326",
+    "preview": "Login",
     "date": "13.03.2026",
-    "imageUrl": ""
-  },
-  {
-    "title": "🚨 CONTENT UPDATE #1",
-    "preview": "Первый апдейт!",
-    "date": "10.03.2026",
-    "imageUrl": ""
-  },
-  {
-    "title": "🎮 СЕЗОН 1 ВЫШЕЛ",
-    "preview": "Доступно для всех.",
-    "date": "05.03.2026",
-    "imageUrl": ""
-  },
-  {
-    "title": "Adventure awaits.",
-    "preview": "Исследуй мир.",
-    "date": "01.03.2026",
-    "imageUrl": ""
-  }
-]
+    "imageUrl": "https://discord.com/channels/1474805642643636418/1482675494309597285/1482675576241258526"
+}
